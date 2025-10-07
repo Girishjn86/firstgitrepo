@@ -5,4 +5,5 @@ class welcome{
 	welcome(){
 		name = "Any";
 	}
+	System.out.println("Hello");
 }
