@@ -3,5 +3,6 @@ class welcome{
 	String name;
 
 	welcome(){
+		name = "Any";
 	}
 }
