@@ -5,5 +5,5 @@ class welcome{
 	welcome(){
 		name = "Any";
 	}
-	System.out.println("Hello");
+	System.out.println("Hello World");
 }
